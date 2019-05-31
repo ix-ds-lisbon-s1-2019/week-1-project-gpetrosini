@@ -49,7 +49,7 @@ class PokerGame:
                         self.winnerList.append(i)
             z += 1
             
-        print(self.winnerList)
+        print("Winner is " + "".join(str(self.winnerList)))
                 
                     
 
