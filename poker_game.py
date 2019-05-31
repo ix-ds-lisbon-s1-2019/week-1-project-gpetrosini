@@ -35,7 +35,7 @@ class PokerGame:
             for value in range(5):
                 self.hand.append(random.choice(self.card_choices))
                 self.hand.sort(reverse = True)
-            print(player + ": " + " ".join(str(self.hand)))
+            #print(player + ": " + " ".join(str(self.hand)))
             self.playerHands[player] = self.hand
         #print(self.playerHands)
         while (z<5) and (len(self.winnerList)>1):
