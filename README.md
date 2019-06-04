@@ -16,3 +16,18 @@ The first project I have completed here in Lisbon includes the blog you are curr
 
 
 To play the poker game the folder in which it is saved must be open on the terminal. Then the command python poker_game.py <NUMBER OF PLAYERS> can be run. Insert a number into <NUMBER OF PLAYERS>. The program will then ask the names of all the players, then choose a random list of numbers that correlate to the cards, compare the cards, and announce the winner's name. The player with the highest card is the winner.
+  
+------------------------------------------------------------------------------------------------
+# Feedback: 
+------------------------------------------------------------------------------------------------
+
+| Section | Mark | 
+|---|---| 
+| Blog | 75% | 
+| Poker Game | 80% |
+||| 
+| Total/100% | 78% | 
+
+Blog is live, poker game executes but it is just missing printing out the players' hands.
+
+Also needed a bit more explanation in the README or in a blog article explaining the inner workings of the poker_game.py file.
