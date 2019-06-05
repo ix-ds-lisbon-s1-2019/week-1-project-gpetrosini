@@ -30,4 +30,4 @@ To play the poker game the folder in which it is saved must be open on the termi
 
 Blog is live, poker game executes but it is just missing printing out the players' hands.
 
-Also needed a bit more explanation in the README or in a blog article explaining the inner workings of the poker_game.py file.
+Blog had everything required (and a nice theme change!), but the explanation of the poker_game.py file could have had just that little bit of extra detail. Otherwise everything looks great!
