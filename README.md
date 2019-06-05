@@ -23,10 +23,10 @@ To play the poker game the folder in which it is saved must be open on the termi
 
 | Section | Mark | 
 |---|---| 
-| Blog | 75% | 
+| Blog | 90% | 
 | Poker Game | 80% |
 ||| 
-| Total/100% | 78% | 
+| Total/100% | 85% | 
 
 Blog is live, poker game executes but it is just missing printing out the players' hands.
 
